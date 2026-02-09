@@ -1,0 +1,16 @@
+{
+  "name": "spooky-site",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "victor",
+  "license": "ISC",
+  "description": "A platform for sharing ghostly encounters",
+  "dependencies": {
+    "sanitize-html": "^2.17.0"
+  }
+}
